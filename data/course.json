@@ -1,0 +1,37 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Fine Arts",
+      "Media Studies"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Cultural Anthropology"
+    ],
+    [
+      "Fine Arts",
+      "Music",
+      "Music Theory"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "1619043a-517d-06ae-7e56-41fab57835ca"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "The Anthropology of Sound",
+  "course_description": "This class examines the ways humans experience the realm of sound and how perceptions and technologies of sound emerge from cultural, economic, and historical worlds. In addition to learning about how environmental, linguistic, and musical sounds are construed cross-culturally, students learn about the rise of telephony, architectural acoustics, and sound recording, as well as about the globalized travel of these technologies. Questions of ownership, property, authorship, and copyright in the age of digital file sharing are also addressed. A major concern will be with how the sound/noise boundary has been imagined, created, and modeled across diverse sociocultural and scientific contexts. Auditory examples \u2014 sound art, environmental recordings, music \u2014 will be provided and invited throughout the term.\n",
+  "department_numbers": [
+    "21A",
+    "STS"
+  ],
+  "extra_course_numbers": "STS.065J,CMS.710J",
+  "primary_course_number": "21A.360J",
+  "learning_resource_types": [
+    "Written Assignments with Examples"
+  ],
+  "title": "Course Metadata"
+}
